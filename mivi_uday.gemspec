@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = '0.0.2'
   s.date        = '2018-06-09'
   s.summary     = "Hola!"
-  s.description = "A simple hello world gem"
+  s.description = "A gem"
   s.authors     = ["Uday kumar das"]
   s.email       = 'dasudaykumar950@gmail.com'
   s.files       = ["mivi_uday.rb"]
